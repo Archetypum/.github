@@ -7,7 +7,7 @@ and user's privacy.
 
 ## Projects
 
-- theSuffocater(https://github.com/Archetypum/theSuffocater)
+- theSuffocater: (https://github.com/Archetypum/theSuffocater)
 
 ## History
 
