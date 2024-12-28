@@ -8,6 +8,7 @@ and user's privacy.
 ## Projects
 
 - theSuffocater: (https://github.com/Archetypum/theSuffocater)
+- theUnixManager: (https://github.com/Archetypum/theUnixManager)
 
 ## History
 
