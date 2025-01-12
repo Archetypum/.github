@@ -31,8 +31,4 @@ We dont know.
 
 ## Contact Methods
 
-$CONTACT_METHOD1
-
-$CONTACT_METHOD2
-
-$CONTACT_METHOD3
+archetypum@tutamail.com
