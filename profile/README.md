@@ -7,9 +7,9 @@ and user's privacy.
 
 ## Projects
 
-- theSuffocater: (https://github.com/Archetypum/theSuffocater)
-- theUnixManager (python): (https://github.com/Archetypum/theUnixManager)
-- theUnixManager (bash): (https://github.com/Archetypum/theUnixManager-bash)
+- theSuffocater (https://github.com/Archetypum/theSuffocater)
+- theUnixManager (python) (https://github.com/Archetypum/theUnixManager)
+- theUnixManager (bash) (https://github.com/Archetypum/theUnixManager-bash)
 
 ## History
 
