@@ -7,23 +7,28 @@ and user's privacy.
 
 ## Projects
 
-- theSuffocater(https://github.com/Archetypum/theSuffocater)
+
+- **theSuffocater** (https://github.com/Archetypum/theSuffocater)
+- **theUnixManager (python)** (https://github.com/Archetypum/theUnixManager)
+- **theUnixManager (bash)** (https://github.com/Archetypum/theUnixManager-bash)
 
 ## History
 
 Back in 2022, Archetypum was originally started as a hobby project by Kinderfeld (CEO), although it was initially called "Alvanetics" and later "F.E.A.R".
 
-After finding associates, Kindefeld began working various projects, including AlvaneticsOS, Machandler and theSuffocater with help of WretchOfLights (WOL),
-Wazups, VOL.10 and Marvin Marvelous (later these two left the project).
+After finding associates, _Kindefeld_ began working various projects, including _AlvaneticsOS_, _Machandler_ and _theSuffocater_ with help of _WretchOfLights_ (_WOL_),
+_Wazups_, _VOL.10_ and _Marvin Marvelous_ (later these two left the project).
 
 ## Goals & Future of Archetypum
 
-TODO: FIND YO GOALS AND GET FUTURE!!!!!!!!!!!!!!!!!
+1. Popularize free software movement. 
+2. Build a nachos factory.
+3. Build a second nachos factory.
+4. Develop more stuff
+5. Never become evil
+
+Our future? We dont know.
 
 ## Contact Methods
 
-$CONTACT_METHOD1
-
-$CONTACT_METHOD2
-
-$CONTACT_METHOD3
+_archetypum@tutamail.com_
