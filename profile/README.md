@@ -26,6 +26,7 @@ _Wazups_, _VOL.10_ and _Marvin Marvelous_ (later these two left the project).
 3. Build a second nachos factory.
 4. Develop more stuff
 5. Never become evil
+6. Never remove number 5
 
 Our future? We dont know.
 
