@@ -19,7 +19,7 @@ Prototypes:
 
 Server utilities:
 - **theSuffocater** (https://github.com/Archetypum/theSuffocater)
-- **SSHield** (https://github.com/Archetypum/theSuffocater)
+- **SSHield** (https://github.com/Archetypum/SSHield)
 
 Libraries:
 - **theUnixManager (python)** (https://github.com/Archetypum/theUnixManager)
