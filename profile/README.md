@@ -45,5 +45,4 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 
 **archetypum@tutamail.com**
 
-We welcome collaboration, conversation, and constructive chaos.
-
+We welcome collaboration, conversation, and constructive chaos (we are checking this email now, sorry for ignoring).
