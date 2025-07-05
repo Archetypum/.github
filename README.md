@@ -43,7 +43,7 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 
 ## Contact
 
-**archetypum@tutamail.com**
+**archetypum@tutamail.com** (we are checking this email now, sorry for ignoring)
 
 We welcome collaboration, conversation, and constructive chaos.
 
