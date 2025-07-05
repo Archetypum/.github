@@ -26,6 +26,7 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 - [`tum-bash`](https://github.com/Archetypum/tum-bash)
 - [`tum-perl`](https://github.com/Archetypum/tum-perl)
 - [`tum-raku`](https://github.com/Archetypum/tum-raku) WIP
+- [`tum-lua`](https://github.com/Archetypum/tum-lua) WIP
 - [`tum-c`](https://github.com/Archetypum/tum-c) WIP
 - [`tum-rust`](https://github.com/Archetypum/tum-rust) WIP
 
