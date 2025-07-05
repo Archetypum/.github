@@ -20,7 +20,7 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 
 ### Libraries
 
-`TheUnixManager` (tum) — A modular library designed for building easy-to-read crossplatform scripts for UNIX-like systems, written in five languages:
+`TheUnixManager` (tum) — A modular library designed for building easy-to-read crossplatform scripts for UNIX-like systems, written in **seven** languages:
 
 - [`tum-python`](https://github.com/Archetypum/tum-python) WIP
 - [`tum-bash`](https://github.com/Archetypum/tum-bash)
