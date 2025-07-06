@@ -16,7 +16,8 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 - [`PrototypeNetBSD`](https://github.com/Archetypum/PrototypeNetBSD) — Firewall/Samba/User configuration scripts bundle for the **NetBSD** operating system.
 
 ### Server Utilities
-- [`theSuffocater`](https://github.com/Archetypum/theSuffocater) — A security-focused toolset aimed at hardening UNIX-like systems, written in **Python3**.
+- [`theSuffocater`](https://github.com/Archetypum/theSuffocater) — A security-focused toolset aimed at hardening UNIX-like systems, written in **Python3** (**ARCHIVED**).
+- [`theSuffocaterOverhaul`](https://github.com/Archetypum/tsfo) - Resurrection of theSuffocater (**WIP**).
 
 ### Libraries
 
@@ -26,7 +27,7 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 - [`tum-bash`](https://github.com/Archetypum/tum-bash)
 - [`tum-perl`](https://github.com/Archetypum/tum-perl)
 - [`tum-raku`](https://github.com/Archetypum/tum-raku) WIP
-- [`tum-lua`](https://github.com/Archetypum/tum-lua) WIP
+- [`tum-lua`](https://github.com/Archetypum/tum-lua)
 - [`tum-c`](https://github.com/Archetypum/tum-c) WIP
 - [`tum-rust`](https://github.com/Archetypum/tum-rust) WIP
 
