@@ -12,22 +12,29 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 
 ## Projects
 
+### Utilities
+
+- [`Passgen`](https://github.com/Archetypum/passgen) - Easy password generator, written in **Python3**;
+  
+- [`Sucrack`](https://github.com/Archetypum/sucrack) - Easy su password cracker, written in **Python3**. 
+
 ### Prototypes
 - [`PrototypeNetBSD`](https://github.com/Archetypum/PrototypeNetBSD) — Firewall/Samba/User configuration scripts bundle for the **NetBSD** operating system.
 
 ### Server Utilities
 - [`theSuffocater`](https://github.com/Archetypum/theSuffocater) — A security-focused toolset aimed at hardening UNIX-like systems, written in **Python3** (**ARCHIVED**).
-- [`theSuffocaterOverhaul`](https://github.com/Archetypum/tsfo) - Resurrection of theSuffocater (**WIP**).
+
+Resurrection of theSuffocater is going to be announced soon!
 
 ### Libraries
 
-`TheUnixManager` (tum) — A modular library designed for building easy-to-read crossplatform scripts for UNIX-like systems, written in **seven** languages:
+`TheUnixManager` (tum) — A modular library designed for building easy-to-read crossplatform scripts for UNIX-like systems, being written in **seven** languages:
 
 - [`tum-python`](https://github.com/Archetypum/tum-python)
 - [`tum-bash`](https://github.com/Archetypum/tum-bash)
 - [`tum-perl`](https://github.com/Archetypum/tum-perl)
 - [`tum-raku`](https://github.com/Archetypum/tum-raku) WIP
-- [`tum-lua`](https://github.com/Archetypum/tum-lua)
+- [`tum-lua`](https://github.com/Archetypum/tum-lua) WIP
 - [`tum-c`](https://github.com/Archetypum/tum-c) WIP
 - [`tum-rust`](https://github.com/Archetypum/tum-rust) WIP
 
