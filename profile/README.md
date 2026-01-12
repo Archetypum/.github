@@ -28,15 +28,9 @@ Resurrection of theSuffocater is going to be announced soon!
 
 ### Libraries
 
-`TheUnixManager` (tum) — A modular library designed for building easy-to-read crossplatform scripts for UNIX-like systems, being written in **seven** languages:
+`TheUnixManager` (tum) — Utility for UNIX-like operating systems designed for retrieving specific information about the system (inits, package managers, distro id, process comms, etc) and building easy-to-read crossplatform bash/shell scripts:
 
-- [`tum-python`](https://github.com/Archetypum/tum-python)
 - [`tum-bash`](https://github.com/Archetypum/tum-bash)
-- [`tum-perl`](https://github.com/Archetypum/tum-perl)
-- [`tum-raku`](https://github.com/Archetypum/tum-raku) WIP
-- [`tum-lua`](https://github.com/Archetypum/tum-lua) WIP
-- [`tum-c`](https://github.com/Archetypum/tum-c) WIP
-- [`tum-rust`](https://github.com/Archetypum/tum-rust) WIP
 
 ## Goals
 
