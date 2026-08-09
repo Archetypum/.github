@@ -2,7 +2,7 @@
 
 ## About Us
 
-**Archetypum** is a non-profit organization focused on creating and distributing free and open-source software with a strong emphasis on **security**, **stability**, and **user privacy**. Founded in `$DATE`, we’ve been working passionately to support the ideals of digital freedom and autonomy.
+**Archetypum** is an organization focused on creating and distributing free and open-source software with a strong emphasis on **security**, **stability**, and **user privacy**. Founded in `$DATE`, we’ve been working passionately to support the ideals of digital freedom and autonomy.
 
 ## History
 
@@ -14,21 +14,15 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 
 ### Utilities
 
-- [`tum-bash`](https://github.com/Archetypum/tum-bash) — `TheUnixManager` — Utility for UNIX-like operating systems designed for retrieving specific information about the system (inits, package managers, distro id, process comms, etc.) and building easy-to-read crossplatform bash/shell scripts:
 
-- [`Passgen`](https://github.com/Archetypum/passgen) — Easy password generator, written in **Python3**;
-  
-- [`Sucrack`](https://github.com/Archetypum/sucrack) — Easy su password cracker, written in **Python3**. 
 
 ### Prototypes
 
-- [`PrototypeNetBSD`](https://github.com/Archetypum/PrototypeNetBSD) — Firewall/Samba/User configuration scripts bundle for the **NetBSD** operating system.
+
 
 ### Server Utilities
 
-- [`theSuffocater`](https://github.com/Archetypum/theSuffocater) — A security-focused toolset aimed at hardening UNIX-like systems, written in **Python3** (**ARCHIVED**).
 
-Resurrection of theSuffocater is going to be announced soon!
 
 ## Goals
 
