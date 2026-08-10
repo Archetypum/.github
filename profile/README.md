@@ -2,7 +2,15 @@
 
 ## About Us
 
-**Archetypum** is an organization focused on creating and distributing free and open-source software with a strong emphasis on **security**, **stability**, and **user privacy**. Founded in `$DATE`, we’ve been working passionately to support the ideals of digital freedom and autonomy.
+**Archetypum** is an conglomerate focused on creating and distributing free and open-source software (FOSS) with a strong emphasis on **security**, **stability**, and **user privacy**. Founded in `$DATE`, we’ve been working passionately to support the ideals of digital freedom and autonomy.
+
+## Hierarchy
+
+Archetypum as said before is the conglomerate which brings specialized sub-organizations, each dedicated to a distinct working field.
+
+- Mercenary:
+
+
 
 ## History
 
