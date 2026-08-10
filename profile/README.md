@@ -8,29 +8,29 @@
 
 Archetypum as said before is the conglomerate which brings specialized sub-organizations, each dedicated to a distinct working field.
 
-- Mercenary:
+- **Mercenary**: organization which focuses in commercial cybersecurity && operational security consulting.
 
-
+- **Refinoc**: organization which focuses in licensing, documentation, standards, and software development. 
 
 ## History
 
 Archetypum began in 2022 as a personal hobby project by **Kinderfeld** (CEO), originally under the name **Alvanetics**, and later **F.E.A.R**. As the vision grew, so did the team.
 
-With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Wazups**, and **VOL.10** with **Marvin Marvelous** (who later departed), the organization began developing foundational tools and libraries like **theSuffocater** and **TheUnixManager**'s.
+With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Wazups**, and **VOL.10** with **Marvin Marvelous** (who later departed), the organization began developing foundational tools and libraries like **theSuffocater** (**tsfo**) and **TheUnixManager** (later rebranded as **morpheus**).
 
 ## Projects
 
-### Utilities
+### User Utilities
 
+- morpheus
 
+- passgen
 
-### Prototypes
-
-
+- sucrack
 
 ### Server Utilities
 
-
+- tsfo (privated until first stable version finished)
 
 ## Goals
 
