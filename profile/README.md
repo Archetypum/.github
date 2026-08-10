@@ -22,11 +22,11 @@ With the help of dedicated collaborators such as **WretchOfLights (WOL)**, **Waz
 
 ### User Utilities
 
-- morpheus
+- [morpheus](https://github.com/Archetypum/Morpheus)
 
-- passgen
+- [passgen](https://github.com/Archetypum/passgen)
 
-- sucrack
+- [sucrack](https://github.com/Archetypum/sucrack)
 
 ### Server Utilities
 
